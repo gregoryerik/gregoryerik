@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gregoryerik
+- 🌱 Currently writing in web applications in Rust.   
